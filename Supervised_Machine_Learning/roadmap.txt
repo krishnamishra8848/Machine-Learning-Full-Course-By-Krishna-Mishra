@@ -1,0 +1,26 @@
+Supervised Machine Learning:
+
+# Chapter -1 What to do When we get Data 
+# Chapter -2 Data Analysis
+# Chapter -3 Handling Missing Values
+# Chapter -4 Removing Duplicates
+# Chapter -5 Outlier Detection
+# Chapter -6 Handling Outliers
+# Chapter -7 Handling Categorical Data issues
+# Chapter -8 Handling Numerical Data issues
+# Chapter -9 Feature Engineering
+# Chapter -10 Feature Selection
+# Chapter -11 Data Transformation (Handling Skewness)
+# Chapter -12 Data Normalization (Scaling like standardization, MinMaxScaler, RobustScaler)
+# Chapter -13 Data Encoding (One-Hot Encoding, Label Encoding, Ordinal Encoding)
+# Chapter -14 Class Imbalance Handling
+# Chapter -15 Data Splitting
+# Chapter -16 Modeling
+# Chapter -17 Cross-Validation
+# Chapter -18 Hyperparameter Tuning
+# Chapter -19 Model Evaluation
+# Chapter -20 Model Interpretability
+# Chapter -21 Model Deployment
+# Chapter -22 Build API For Model
+# Chapter -23 Take User Feedback
+# Chapter -24 Retrained Model with OLD Data + User Feedback Data
