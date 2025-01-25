@@ -1,0 +1,14 @@
+Introduction
+
+What is Machine Learning?
+AI vs ML vs DL
+Types of Machine Learning
+Batch Machine Learning
+Online Machine Learning
+Application of Machine Learning
+Challenges in Machine Learning
+Installation of Python, VS Code
+Important Machine Learning Tools(Python,Pandas,Numpy,Seaborn,Matplotlib,Plotly,Scikit Learning
+Streamlit,Flask,Git & Github,Google Colab,Render/GCP/AWS, Kaggle, Hugging Face)
+Types of Data (CSV, JSON, SQL)
+How To Get Data for Machine Learning(Kaggle,Fetch Data from api, web scrapping)
