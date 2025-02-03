@@ -1,24 +1,27 @@
-Supervised Machine Learning:
+Supervised Learning:
 
-# Chapter -1 What to do When we get Data 
-# Chapter -2 Data Analysis
-# Chapter -3 Handling Missing Values
-# Chapter -4 Removing Duplicates
-# Chapter -5 Outlier Detection and Handling
-# Chapter -6 Handling Categorical & Numerical Data issues
-# Chapter -7 Feature Engineering
-# Chapter -8 Feature Selection
-# Chapter -9 Data Transformation (Handling Skewness)
-# Chapter -10 Data Normalization (Scaling like standardization, MinMaxScaler, RobustScaler)
-# Chapter -11 Data Encoding (One-Hot Encoding, Label Encoding, Ordinal Encoding)
-# Chapter -12 Class Imbalance Handling
-# Chapter -13 Data Splitting
-# Chapter -14 Modeling
-# Chapter -15 Cross-Validation
-# Chapter -16 Hyperparameter Tuning
-# Chapter -17 Model Evaluation
-# Chapter -18 Model Interpretability
-# Chapter -19 Model Deployment
-# Chapter -20 Build API For Model
-# Chapter -21 Take User Feedback
-# Chapter -22 Retrained Model with OLD Data + User Feedback Data
+# Chapter -1 What to do When we get Data ✅
+# Chapter -2 Data Analysis ✅
+# Chapter -3 Handling Missing Values ✅
+# Chapter -4 Removing Duplicates ✅
+# Chapter -5 Outlier Detection and Handling ✅
+# Chapter -6 Handling Categorical & Numerical Data issues & Feature Engineering ✅
+# Chapter -7 Feature Selection ✅
+# Chapter -8 Data Transformation (Handling Skewness) ✅
+# Chapter -9 Data Normalization (Scaling like standardization, MinMaxScaler, RobustScaler) ✅
+# Chapter -10 Data Encoding (One-Hot Encoding, Label Encoding, Ordinal Encoding) ✅
+# Chapter -11 Class Imbalance Handling
+# Chapter -12 Data Splitting
+# Chapter -13 Modeling
+# Chapter -14 Cross-Validation
+# Chapter -15 Hyperparameter Tuning
+# Chapter -16 Model Evaluation
+# Chapter -17 Model Interpretability
+# Chapter -18 Model Deployment
+# Chapter -19 Build API For Model
+# Chapter -20 Take User Feedback
+# Chapter -21 Retrained Model with OLD Data + User Feedback Data
+# Chapter -22 Projects of Supervised Model
+___________________________________________________________________________________________________________
+
+Unsupervised Learning:
